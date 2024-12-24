@@ -66,4 +66,4 @@ For questions or collaboration opportunities, please contact:
 
 Email: [kazykeldidosanov@gmail.com]
 
-Website: [...]
+Website: [https://sonkad.github.io/final-iskill-up.io/]
