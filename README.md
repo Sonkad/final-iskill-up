@@ -1,6 +1,6 @@
 iSkillup Project
 
-Overview
+Overviews
 
 This project is a responsive and interactive educational website designed for showcasing courses and providing a seamless user experience. It features a modern design with a red and white theme inspired by Narxoz University's branding.
 
